@@ -1,5 +1,8 @@
-## ReccFood
+# ReccFood
 ---
+
+Aplikasi resep makanan indonesia berbasis android. dilengkapi dengan fitur rekomendasi pencarian berbasis ai, yang dimana user dapat dengan bebas mencari resep yang di ingingkan 
+
 
 ![](https://github.com/shoya-m1/ReccFood/blob/main/app/src/main/banner.png)
 
